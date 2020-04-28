@@ -1,7 +1,9 @@
 Pagina web: https://blackfrostwow.com/
 
+Facebook: https://www.facebook.com/blackfrostwow/
+
 Discord:
-[![Discord](https://img.shields.io/discord/217589275766685707.svg)](https://discord.gg/s4656b2 "Blackfrost - Discord")
+[![Discord](https://img.shields.io/discord/217589275766685707.svg)](https://discord.gg/s4656b2 "Blackfrost Discord")
 
 ##### Bienvenidos al bug-tracker del Blackfrost
 Para reportar un problema de jugabilidad relacionado a una mision, un NPC, un objeto, un hechizo, habilidad o una mecanica, puedes reportarlo en este bug-tracker utilizando obligatoriamente el issue_template.md
