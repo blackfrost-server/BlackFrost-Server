@@ -10,6 +10,7 @@ Para reportar una sugerencia, un problema de jugabilidad relacionado a una misio
 
 Es obligatorio utilizar el siguiente formato en este tracker:
 "(Bug)" Para reportes de bugs o fallos de juego: (Bug) Loot incorrecto en Remendejo 10
+
 "(Suggestion)" Para sugerencias del juego y/o servidor: (Sugerencia) Evento semanal
 
 * Cualquier problema reportado sin utilizar apropiadamente la plantilla "issue_template.md" puede ser eliminados sin previo aviso.
@@ -21,6 +22,7 @@ To report a suggestion, gameplay problem related to a mission, an NPC, an object
 
 It is mandatory to use the following format in this tracker:
 "(Bug)" For reports of bugs or game bugs: (Bug) Incorrect loot in Patchwerk 10
+
 "(Suggestion)" For game and / or server suggestions: (Suggestion) Weekly event
 
 * Any reported problem without properly using the template "issue_template.md" can be removed without prior notice.
