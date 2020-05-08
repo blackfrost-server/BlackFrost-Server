@@ -33,6 +33,7 @@
 2. 
 3. 
 
-##### AC HASH/COMMIT:
 
+##### AC HASH/COMMIT:
+<!-- DO NOT MODIFY OR DELETE THIS -->
 https://github.com/azerothcore/azerothcore-wotlk/commit/f1b44029c85b9e25318ba84a099b4103e0d98f4e
