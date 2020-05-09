@@ -34,6 +34,5 @@
 3. 
 
 ##### AC HASH/COMMIT:
-<!-- IF YOU DO NOT FILL THIS OUT, WE WILL CLOSE YOUR ISSUE! NEVER WRITE "LATEST", ALWAYS PUT THE ACTUAL VALUE INSTEAD.
-This value can be found on our Discord Server under the channel #server-info, search for AzerothCore current commit and copy the random string line.
--->
+<!-- DO NOT MODIFY OR DELETE THIS -->
+https://github.com/azerothcore/azerothcore-wotlk/commit/f1b44029c85b9e25318ba84a099b4103e0d98f4e
